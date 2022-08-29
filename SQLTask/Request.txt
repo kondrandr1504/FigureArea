@@ -1,0 +1,3 @@
+select cat.[Cname] as 'Категория',pr.[Pname] as 'Продукт' from [ConTable] as con
+left join [CategoryTable] as cat on cat.id=con.[id_Category]
+left join [ProductTable] as pr on pr.id=con.[id_Product]

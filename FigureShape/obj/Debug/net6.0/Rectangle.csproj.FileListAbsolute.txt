@@ -1,0 +1,12 @@
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/bin/Debug/net6.0/Rectangle.deps.json
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/bin/Debug/net6.0/Rectangle.dll
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/bin/Debug/net6.0/ref/Rectangle.dll
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/bin/Debug/net6.0/Rectangle.pdb
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/Rectangle.csproj.AssemblyReference.cache
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/Rectangle.AssemblyInfoInputs.cache
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/Rectangle.AssemblyInfo.cs
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/Rectangle.csproj.CoreCompileInputs.cache
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/Rectangle.dll
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/ref/Rectangle.dll
+/Users/kondrandr/Documents/workVizls/ProgtamsHiring/RectangleLibrary/Rectangle/obj/Debug/net6.0/Rectangle.pdb
